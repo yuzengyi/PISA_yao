@@ -1,6 +1,6 @@
 # PISA 2022 Data Cleaning and Descriptive Statistics
 
-This project, co-authored by Zhang Yao and Yu Zengyi, focuses on the cleaning and descriptive statistical analysis of the PISA 2022 dataset. The aim is to uncover insights into educational trends and student performance across different regions and genders.
+This project, co-authored by Yao Zhang and Zengyi Yu, focuses on the cleaning and descriptive statistical analysis of the PISA 2022 dataset. The aim is to uncover insights into educational trends and student performance across different regions and genders.
 ## Code Snippet
 
 Below is a snippet of the code used for data cleaning and descriptive statistical analysis:
