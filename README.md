@@ -30,7 +30,7 @@ To run this analysis on your local machine, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-repository.git`
 2. Navigate to the repository directory: `cd your-repository`
 3. Ensure that you have Python installed with required packages: `pandas`, `seaborn`, and `matplotlib`.
-4. Run the script: `python analysis_script.py`
+
 ## Results and Conclusion
 
 Our analysis revealed significant educational trends... (Briefly describe your findings)
